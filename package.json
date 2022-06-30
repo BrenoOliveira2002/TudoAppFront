@@ -1,11 +1,11 @@
 {
-  "name": "tudoappfront",
+  "name": "frontend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --progress --colors --inline --hot",
-    "production" : "webpack --progress -p"
+    "production": "webpack --progress -p"
   },
   "keywords": [],
   "author": "",
