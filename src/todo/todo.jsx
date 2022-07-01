@@ -12,7 +12,7 @@ export default class Todo extends Component {
                 <Pageheader name='Tarefas' small='Cadastro'></Pageheader>
                 <TodoForm />
                 <TodoList />
-                
+
             </div>
         )
     }
